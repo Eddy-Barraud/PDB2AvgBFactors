@@ -1,4 +1,4 @@
-<p align="center"><img width="500" alt="portfolio_view" src="./Example/try.png"></p>
+<p align="center"><img width="500" alt="portfolio_view" src="./Example/try.resbfactors.png"></p>
 
 # PDB to Average B-Factors per residue
 
